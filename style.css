@@ -1,0 +1,24 @@
+body {
+  background: blueviolet;
+  text-align: center;
+  font: normal 18px Arial;
+}
+
+header {
+  color: white;
+}
+
+section {
+  text-align: left;
+  border-radius: 10px;
+  padding: 15px;
+  margin: auto;
+  background: white;
+  width: 500px;
+  box-shadow: 5px 5px 10px black;
+}
+
+footer {
+  color: white;
+  margin: 20px;
+}
